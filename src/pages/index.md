@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Dragonfly Bento 蜻蜓私房菜
-image: /img/1_1.jpg
+image: /img/img-20200319-wa0030.jpg
 heading: DragonFly Homemade Bento 蜻蜓家庭私房菜便当
 subheading: 吉打亚罗士打<便当，伙食，包点>外送服务
 mainpitch:
@@ -18,12 +18,7 @@ description: "烦恼早午晚想吃什么？ 不如试一试咱们家私房菜�
 intro:
   blurbs:
     - image: /img/whatsapp-image-2020-05-24-at-09.13.50.jpeg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: "\n"
     - image: /img/whatsapp-image-2020-05-24-at-09.13.51.jpeg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -44,6 +39,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+    - image: /img/img-20200319-wa0030.jpg
+      text: |-
+        主厨将选择最好的新鲜食材烹饪出美味伙食佳肴，好让亲爱的顾客安心享用。
+
+        每天下午或晚上都会更新明天的伙食菜单。
+
+        别担心食物价格...都是平民价格。
   heading: 伙食温馨提醒小贴士
   description: |-
     送餐时间表：
@@ -54,6 +56,11 @@ intro:
     包月伙食星期五跟六以及公共假期休息。点心便当照常营业。
 
     支付方法有电子钱包 (TnGo Ewallet)，银行汇款 (RHB)，现金付款。 (为了避免疫情严重，我们实行无现金交易。谢谢大家合作。)
+
+    🕰𝘽𝙪𝙨𝙞𝙣𝙚𝙨𝙨 𝙃𝙤𝙪𝙧： 6:00am to 10:00pm (每天营业)
+    🕹𝙇𝙤𝙘𝙖𝙩𝙞𝙤𝙣：125， Taman Nakishah, Jalan Datuk Kumbar
+    💻𝙁𝘽: https://www.facebook.com/dragonflybento/
+    🖼𝙄𝙂: dragonflybento
 main:
   heading: Great coffee with no compromises
   description: >
